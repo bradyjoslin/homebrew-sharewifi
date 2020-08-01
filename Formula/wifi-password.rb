@@ -4,11 +4,11 @@
 class WifiPassword < Formula
     desc "Quickly share Wi-Fi connection info"
     homepage "https://github.com/bradyjoslin/wifi-password"
-    url "https://github.com/bradyjoslin/wifi-password/releases/download/v0.1.3/wifi-password-mac.tar.gz"
-    sha256 "dbc459384f365fc101642b391c493f97552293f5d4052d1756e512adeaa0344b"
-    version "0.1.3"
+    url "https://github.com/bradyjoslin/wifi-password/releases/download/v0.1.4/sharewifi-mac.tar.gz"
+    sha256 "c8449dc7cb34a1ef06cbd9ef10a99dc7c6f91bdc8b45e88c80231bf17ca4ec18"
+    version "0.1.4"
   
     def install
-      bin.install "wifi-password"
+      bin.install "sharewifi"
     end
   end
