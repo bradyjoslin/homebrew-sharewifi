@@ -1,1 +1,1 @@
-# homebrew-wifi-password
+# homebrew-sharewifi
