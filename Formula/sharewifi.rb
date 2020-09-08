@@ -4,9 +4,9 @@
 class Sharewifi < Formula
     desc "Quickly share Wi-Fi connection info"
     homepage "https://github.com/bradyjoslin/sharewifi"
-    url "https://github.com/bradyjoslin/sharewifi/releases/download/v0.1.5/sharewifi-mac.tar.gz"
-    sha256 "d732bf53035583f7cc84fae95db722fd027704c5e31926d5b0cb13abf2485e56"
-    version "0.1.5"
+    url "https://github.com/bradyjoslin/sharewifi/releases/download/v0.1.6/sharewifi-mac.tar.gz"
+    sha256 "bf5b81e8cafe34300dc576f26ad6c605fde09d3a4bcf014daf10a1c90ea6760c"
+    version "0.1.6"
   
     def install
       bin.install "sharewifi"
